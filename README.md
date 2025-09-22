@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishavu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on business
 - 📫 How to reach me https://www.linkedin.com/in/aviral-khandelwal-639876276/
 - 😄 Pronouns: he/him
